@@ -1,0 +1,42 @@
+Digital Door Lock System
+
+Description:
+The Digital Door Lock System project aims to provide a secure and convenient solution for controlling access to a door using an Arduino microcontroller. The project is implemented in two versions:
+
+Potentiometer-regulated Version: In this version, the door lock system is controlled by set parameters regulated by a potentiometer. The rotation of the potentiometer determines the access control parameters, such as the allowed range of values for unlocking the door.
+
+Keypad Lock System Version: The second version of the project utilizes a keypad lock system for access control. Users are required to input a specific code via the keypad to unlock the door.
+Both versions of the project are simulated and tested using the Arduino microcontroller platform and Proteus simulation software.
+
+Components:
+Arduino Microcontroller
+Potentiometer (for version 1)
+Keypad (for version 2)
+Servo Motor (for controlling the door lock mechanism)
+LCD Display (for displaying system status and messages)
+ Jumper Wires
+
+Features:
+Secure access control mechanism.
+User-friendly interface for inputting access codes (version 2).
+Real-time monitoring and display of system status.
+Versatile implementation allows for customization and expansion.
+
+Installation and Usage:
+Arduino Setup: Connect the Arduino board to your computer and upload the corresponding code for the desired version of the project.
+Circuit Connection: Set up the circuit connections according to the provided schematics for each version.
+Testing: Run the simulation in Proteus to test the functionality of the Digital Door Lock System.
+Operation: Follow the instructions provided in the project documentation to operate the system effectively.
+
+Files Included:
+Arduino Code: Contains the source code for both versions of the project.
+Proteus Simulation Files: Includes the simulation setup files for testing the project.
+Schematics: Provides circuit diagrams and connections for the project implementation.
+Documentation: Detailed instructions and user manual for setup, operation, and troubleshooting.
+
+Contributors:
+Ameyaw Samuel Arthur
+
+License:
+This project is licensed under the MIT  license. See the LICENSE file for details.
+
